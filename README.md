@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 
 * 🔭 Working on real-world web development projects
-* 💡 علاقه (interest) in clean UI/UX and performance optimization
 * 📈 Continuously learning and improving my development skills
 
 ---
