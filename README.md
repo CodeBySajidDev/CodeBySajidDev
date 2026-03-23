@@ -1,23 +1,41 @@
 # 👋 Hi, I'm Muhammad Sajid
 
-👀 I'm interested in full-stack web development.
+### 💻 Full-Stack Web Developer
 
-🌱 I'm currently working on JavaScript , Bootstrap, PHP and Wordpress .
+🚀 Passionate about building modern, scalable, and user-friendly web applications.
+🌱 Currently working with **JavaScript, Bootstrap, PHP, and WordPress**
+🤝 Open to collaborating on **enterprise-level and real-world projects**
 
-💞️ I'm looking to collaborate on enterprise-level projects.
+---
 
-📫 How to reach me:
+## 🧑‍💻 About Me
 
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-sajid-936093387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 🔭 Working on real-world web development projects
+* 💡 علاقه (interest) in clean UI/UX and performance optimization
+* 📈 Continuously learning and improving my development skills
 
-- **Instagram:** https://www.instagram.com/sajidprogrammer77/
+---
 
-- **Gmail:** sajid@codebysajid.com
-  
-- **Website:** https://codebysajid.com/
+## 🛠️ Tech Stack
 
-- **Upwork:** https://www.upwork.com/freelancers/~013e31b497ffbb787d
+* 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap
+* ⚙️ Backend: PHP, MySQL
+* 🧩 CMS: WordPress (Homey, Houzez)
 
-- **Fiverr:** https://www.fiverr.com/s/yvPeD7G
+---
 
-- **WhatsApp:** +923134482690
+## 🌍 Connect With Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-sajid-936093387
+* 🌐 **Website:** https://codebysajid.com/
+* 💻 **Upwork:** https://www.upwork.com/freelancers/~013e31b497ffbb787d
+* 🎯 **Fiverr:** https://www.fiverr.com/s/yvPeD7G
+* 📸 **Instagram:** https://www.instagram.com/sajidprogrammer77/
+* 📧 **Email:** [sajid@codebysajid.com](mailto:sajid@codebysajid.com)
+* 📱 **WhatsApp:** +92 313 4482690
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real-world web solutions 
